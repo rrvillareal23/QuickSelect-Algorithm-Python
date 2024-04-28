@@ -24,10 +24,10 @@ result = quick_select(arr, 0, len(arr) - 1, k)
 print("The", k, "th smallest element is:", result)
 ```
 
-##Contributing
+## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feel free to adjust or expand upon this README as needed for your repository!
